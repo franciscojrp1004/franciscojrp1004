@@ -36,7 +36,7 @@ I am a **Computer Engineering Student** at the Polytechnic of Leiria (IPL). My t
 
 ### 📫 Connect with me
 
-*   **LinkedIn:** [linkedin.com/in/franciscojrp1004](https://www.linkedin.com/in/franciscojrp1004)
+*   **LinkedIn:** [linkedin.com/in/francisco-pereira-dev](https://www.linkedin.com/in/franciscojrp1004)
 *   **Location:** Figueira da Foz, Coimbra, Portugal 🇵🇹
 
 *"Turning complex problems into functional, high-quality code."*
