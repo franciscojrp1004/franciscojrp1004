@@ -10,15 +10,6 @@ Systems & Data: Docker, SQL (MySQL/PostgreSQL), OutSystems.
 
 Other Interests: Local AI (Ollama), Networking (Cisco), and PC Hardware.
 
-🚀 Projects I've built
-
-DAE Full-Stack App: A Java & Docker project where I experimented with integrating AI for intelligent processing.
-
-MR.PIZZA: A delivery platform where I focused heavily on building a solid shopping cart logic and smooth order flow.
-
-Online Tech Store: A complete e-commerce site featuring a custom back-office for warehouse management.
-
-Diane Arbus Catalog: A fast, visual web catalog built from scratch using TypeScript and Vite.
 
 📫 Let's connect!
 
