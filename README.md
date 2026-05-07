@@ -1,42 +1,27 @@
 # Hi there, I'm Francisco Pereira! 👋
 
-I am a **Computer Engineering Student** at the Polytechnic of Leiria (IPL). My technical journey began with a professional IT course, giving me a strong foundation in both software development and systems/network infrastructure.
+I'm a Computer Engineering student at IPL (Polytechnic of Leiria) with a solid background in both software development and IT infrastructure. I enjoy building full-stack applications, solving problems, and tinkering with everything from code to hardware.
 
----
+🛠️ What I work with
 
-### 🛠️ Technologies & Tools
+Languages & Web: Java, C#, PHP, JavaScript/TypeScript, Vue.js, HTML/CSS.
 
-**Backend & Systems:**
-*   **Languages:** Java, C, C#, PHP
-*   **Infrastructure:** Docker & Docker Compose (Containerization)
-*   **Database:** SQL (MySQL/PostgreSQL)
-*   **AI:** Local LLM implementation (Ollama / LLaMA 3)
-*   **Tools:** Maven, Backend architecture and API development
+Systems & Data: Docker, SQL (MySQL/PostgreSQL), OutSystems.
 
-**Frontend & Web Development:**
-*   **Core:** HTML5, CSS3, JavaScript (ES6+)
-*   **Frameworks & Libraries:** Vue.js, TypeScript, Vite
-*   **Low-code:** OutSystems (Expertise in full-stack web app delivery)
-*   **Design:** UI/UX implementation from Figma designs
+Other Interests: Local AI (Ollama), Networking (Cisco), and PC Hardware.
 
-**Networking & Hardware:**
-*   **Simulation:** Cisco Packet Tracer (Network topology & configuration)
-*   **Hardware:** Computer assembly, maintenance, and troubleshooting
+🚀 Projects I've built
 
----
+DAE Full-Stack App: A Java & Docker project where I experimented with integrating AI for intelligent processing.
 
-### 🚀 Featured Projects
+MR.PIZZA: A delivery platform where I focused heavily on building a solid shopping cart logic and smooth order flow.
 
-*   **DAE Full-Stack App:** An advanced academic project using Java and Docker, featuring AI integration for intelligent processing.
-*   **MR.PIZZA:** A specialized delivery platform focusing on order flow, cart logic, and user experience.
-*   **Online Tech Store (PAP):** A professional-grade e-commerce platform with a dedicated warehouse management back-office.
-*   **Diane Arbus Catalog:** A high-performance web catalog built with TypeScript and Vite.
+Online Tech Store: A complete e-commerce site featuring a custom back-office for warehouse management.
 
----
+Diane Arbus Catalog: A fast, visual web catalog built from scratch using TypeScript and Vite.
 
-### 📫 Connect with me
+📫 Let's connect!
 
-*   **LinkedIn:** [linkedin.com/in/francisco-pereira-dev](https://www.linkedin.com/in/franciscojrp1004)
-*   **Location:** Figueira da Foz, Coimbra, Portugal 🇵🇹
+LinkedIn: linkedin.com/in/francisco-pereira-dev
 
-*"Turning complex problems into functional, high-quality code."*
+Location: Figueira da Foz, Portugal 🇵🇹
