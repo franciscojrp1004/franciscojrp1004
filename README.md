@@ -1,6 +1,6 @@
 # Hi there, I'm Francisco Pereira! 👋
 
-I'm a Computer Engineering student at IPL (Polytechnic of Leiria) with a solid background in both software development and IT infrastructure. I enjoy building full-stack applications, solving problems, and tinkering with everything from code to hardware.
+I am a Computer Engineering student 🎓 from Portugal 🇵🇹 who enjoys writing clean code and building full-stack applications 🚀.
 
 🛠️ What I work with
 
@@ -8,11 +8,14 @@ Languages & Web: Java, C#, PHP, JavaScript/TypeScript, Vue.js, HTML/CSS.
 
 Systems & Data: Docker, SQL (MySQL/PostgreSQL), OutSystems.
 
-Other Interests: Local AI (Ollama), Networking (Cisco), and PC Hardware.
+Interests: Full-Stack Development, Backend Architecture, and Local AI (Ollama).
 
+🌐 Portfolio & Projects
+
+Website: franciscopereira.dev (Coming soon!)
 
 📫 Let's connect!
 
 LinkedIn: linkedin.com/in/francisco-pereira-dev
 
-Location: Figueira da Foz, Portugal 🇵🇹
+Location: Figueira da Foz, Portugal 📍
