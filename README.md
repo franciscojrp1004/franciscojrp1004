@@ -1,6 +1,6 @@
 # Hi there, I'm Francisco Pereira! 👋
 
-I am a Computer Engineering student 🎓 from Portugal 🇵🇹 who enjoys writing clean code and building full-stack applications 🚀.
+I am a Computer Engineering student from Portugal who enjoys writing clean code and building full-stack applications.
 
 🛠️ What I work with
 
